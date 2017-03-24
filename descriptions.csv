@@ -1,0 +1,54 @@
+Column,Description
+host_since,Host/property owner's date of Joining
+host_response_time,Average time taken by host to respond to queries by guests
+host_response_rate,Average % of guest queries responded to by host
+host_acceptance_rate,Average % of booking accepted by host
+host_is_superhost,Better rated hosts are superhosts
+host_total_listings_count,Number of properties listed by the host
+host_verifications,What details for the host are available for verifications
+host_has_profile_pic,Posted a profile picture
+host_identity_verified,Has the host identity been verified
+street,Street address of property
+neighbourhood_cleansed,Geographical area where property is located (normalised and cleaned)
+neighbourhood_group_cleansed,Higher level geographical area aggregating neighbourhoods (normalised and cleaned)
+city,"City portion of the address (unlike in India cities are actually more like our localities, or neighbourhood groups)"
+state,Always NY
+zipcode,Pincode
+market,Area of property
+smart_location,"City, State (normalised and cleaned)"
+latitude,latitude of address location
+longitude,longitude of address location
+is_location_exact,false indicates the lat/long combination to be inexact
+property_type,What kind of property
+room_type,details of the room
+accommodates,maximum occupancy
+bathrooms,number of bathrooms available in property
+bedrooms,number of bedrooms available in property
+beds,number of beds available in property
+bed_type,type of bed
+amenities,list of amenities provided with the property
+square_feet,How many square feet of space is available in the property
+security_deposit,Any security deposit required over the normal rate
+cleaning_fee,cleaning fees charged at end of stay
+minimum_nights,minimum number of nights that you can book
+calendar_updated,when was the calendar updated to show modified availability
+availability_30,availability in next 30 days
+availability_60,availability in next 60 days
+availability_90,availability in next 90 days
+availability_365,availability in next 365 days
+number_of_reviews,Number of reviews
+review_scores_rating,overall score
+review_scores_accuracy,score for accuracy of property description
+review_scores_cleanliness,score for cleanliness
+review_scores_checkin,score for checkin
+review_scores_communication,score for communication with host
+review_scores_location,score for location
+review_scores_value,score for value for money
+instant_bookable,can it be instantly booked
+cancellation_policy,strictness of cancellation policy
+require_guest_profile_picture,does booking require guest profile picture
+require_guest_phone_verification,does booking require guest phone verification
+reviews_per_month,number of average reviews per month
+price,Daily rent for the property
+guests_included,number of guests included in the daily rental
+extra_people,cost of hosting extra people (but subject to max occupancy)
